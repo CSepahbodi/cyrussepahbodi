@@ -1,2 +1,2 @@
 # cyrussepahbodi
-My personal portfolio
+A react personal portfolio made by yours truly.
